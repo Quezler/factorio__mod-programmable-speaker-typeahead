@@ -1,0 +1,9 @@
+{
+  "name": "programmable-speaker-typeahead",
+  "version": "1.0.0",
+  "title": "Programmable speaker typeahead",
+  "author": "Quezler",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Automatically sets the alert icon based on the initial circuit condition"
+}
